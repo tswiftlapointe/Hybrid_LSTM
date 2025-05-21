@@ -16,6 +16,8 @@ The code in this repository can reproduce all figures in the study, as well as p
 * indices_example1.csv: Example training, validation, and testing year indices for one example test year (2014), as used in Train_LSTM_example.ipynb.
 * Mica_basin_outline.csv: Basin outline coordinates for the Kinbasket Lake Reservoir catchment, from Environment and Climate Change Canada: National hydrometric network basins polygons dataset (Environment and Climate Change Canada, 2016).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15483232.svg)](https://doi.org/10.5281/zenodo.15483232)
+
 ## Steps to build example hybrid forecast
 
 Local file organization should be as outlined below before proceeding. Create new directory ./Hybrid_LSTM/Data/ to hold the preprocessed data.
